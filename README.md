@@ -1,5 +1,6 @@
 # E-commerce Sales & Customer Behavior Analysis
 
+<img width="1676" height="926" alt="image" src="https://github.com/user-attachments/assets/4770eceb-5c22-42dd-a8d3-3b444ab5ef3d" />
 
 ## Introduction
 
